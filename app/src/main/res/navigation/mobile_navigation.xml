@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_suhoor_iftar_times">
+
+    <fragment
+        android:id="@+id/nav_suhoor_iftar_times"
+        android:name="com.example.ramzanapp.ui.home.homeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_prayer_times"
+        android:name="com.example.ramzanapp.ui.prayer_times.prayer_timesFragment"
+        android:label="@string/menu_prayer_times"
+        tools:layout="@layout/fragment_prayer_times" />
+
+    <fragment
+        android:id="@+id/nav_names_of_Allah"
+        android:name="com.example.ramzanapp.ui.Names_of_Allah.Names_of_AllahFragment"
+        android:label="@string/menu_name_of_Allah"
+        tools:layout="@layout/fragment_names_of_allah" />
+    <fragment
+        android:id="@+id/nav_duas"
+        android:name="com.example.ramzanapp.ui.Duas.DuasFragment"
+        android:label="@string/menu_duas"
+        tools:layout="@layout/fragment_duas" />
+    <fragment
+        android:id="@+id/nav_guide"
+        android:name="com.example.ramzanapp.ui.guide.GuideFragment"
+        android:label="@string/menu_guide"
+        tools:layout="@layout/fragment_guide" />
+    <fragment
+        android:id="@+id/nav_iftar"
+        android:name="com.example.ramzanapp.iftar"
+        android:label="@string/menu_suhoor_iftar_times"
+        tools:layout="@layout/fragment_iftar" />
+</navigation>

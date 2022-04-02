@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/an"
+    android:orientation="vertical"
+    tools:context=".ui.Names_of_Allah.Names_of_AllahFragment">
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/imageView23"
+                android:layout_width="304dp"
+                android:layout_height="524dp"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+                android:src="@drawable/a" />
+
+            <ImageView
+                android:id="@+id/imageView24"
+                android:layout_width="304dp"
+                android:layout_height="524dp"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+                android:src="@drawable/b" />
+
+            <ImageView
+                android:id="@+id/imageView25"
+                android:layout_width="304dp"
+                android:layout_height="524dp"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+                android:src="@drawable/c" />
+
+            <ImageView
+                android:id="@+id/imageView26"
+                android:layout_width="304dp"
+                android:layout_height="524dp"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+                android:src="@drawable/d" />
+
+            <ImageView
+                android:id="@+id/imageView27"
+                android:layout_width="304dp"
+                android:layout_height="524dp"
+                android:layout_margin="20dp"
+                android:layout_weight="1"
+                android:src="@drawable/e" />
+        </LinearLayout>
+    </HorizontalScrollView>
+
+</LinearLayout>

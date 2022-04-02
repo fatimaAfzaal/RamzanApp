@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RamzanApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ramzan App</string>
+    <string name="nav_header_subtitle">Happy Ramzan Kareem</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_suhoor_iftar_times">Suhoor/Iftar Times</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_prayer_times">Prayer Times</string>
+    <string name="menu_name_of_Allah">99 Names of Allah</string>
+    <string name="menu_duas">Duas/Suplications</string>
+    <string name="menu_guide">Ramadan Guide</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="tab_text_1">Arabic</string>
+    <string name="tab_text_2">Pronunciation</string>
+    <string name="tab_text_3">Translation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

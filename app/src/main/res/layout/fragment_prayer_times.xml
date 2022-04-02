@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/prayer"
+    android:orientation="vertical"
+    android:weightSum="3"
+    tools:context=".ui.prayer_times.prayer_timesFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom|center"
+        android:layout_weight="1"
+        android:gravity="bottom|center"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="2dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="70dp"
+            android:layout_marginBottom="70dp"
+            android:layout_weight="1"
+            android:src="@drawable/fajar" />
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="bottom|center"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_weight="1"
+            android:src="@drawable/zuhu" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="144dp"
+            android:layout_height="111dp"
+            android:layout_gravity="center"
+            android:layout_margin="120dp"
+            android:layout_weight="1"
+            android:src="@drawable/asar" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+        <ImageView
+            android:id="@+id/imageView11"
+            android:layout_width="wrap_content"
+            android:layout_height="94dp"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:src="@drawable/mag" />
+
+        <ImageView
+            android:id="@+id/imageView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:src="@drawable/isha" />
+    </LinearLayout>
+</LinearLayout>

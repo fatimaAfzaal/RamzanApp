@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_suhoor_iftar_times"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_prayer_times"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_prayer_times" />
+        <item
+            android:id="@+id/nav_names_of_Allah"
+            android:icon="@drawable/ic_baseline_dynamic_feed_24"
+            android:title="@string/menu_name_of_Allah" />
+        <item
+            android:id="@+id/nav_duas"
+            android:icon="@drawable/ic_baseline_book_24"
+            android:title="@string/menu_duas" />
+        <item
+            android:id="@+id/nav_guide"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_guide" />
+        <item
+            android:id="@+id/nav_iftar"
+            android:icon="@drawable/ic_baseline_free_breakfast_24"
+            android:title="@string/menu_suhoor_iftar_times" />
+    </group>
+</menu>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/drawable/button_style.xml" value="0.1955" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/activity_main3.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/app_bar_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/content_main.xml" value="0.16" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/duas.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/duas_fragment.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/fragment1.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/fragment1_layout.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/fragment2_layout.xml" value="0.2" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/fragment3_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/fragment_duas.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/fragment_guide.xml" value="0.1692573402417962" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/fragment_iftar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/fragment_main_activity3.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/fragment_names_of_allah.xml" value="0.1" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/fragment_prayer_times.xml" value="0.15" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/fragment_prayer_times2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/fragment_suhoor_iftar_times.xml" value="0.1" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/item_contact.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/nav_header_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/layout/prayer_names_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/Mootu &amp; Patlu/AndroidStudioProjects/RamzanApp/app/src/main/res/menu/main.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

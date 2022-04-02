@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/lg"
+    android:padding="10dp"
+    tools:context=".ui.Duas.DuasFragment">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="191dp"
+        android:layout_height="71dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="68dp"
+        android:text="Press for suplications"
+        android:textSize="16sp"
+        app:backgroundTint="#4CAF50"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="306dp"
+        android:layout_height="99dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="37dp"
+        android:padding="10dp"
+        android:text="The Prophet (ﷺ) said, “Dua is the essence of worship&quot;"
+        android:textColor="#0A730D"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="312dp"
+        android:layout_height="178dp"
+        android:layout_marginTop="55dp"
+        android:layout_marginEnd="38dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Duas/Suplications for Ramadan📿"
+        android:textColor="@android:color/black"
+        android:textSize="34sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
